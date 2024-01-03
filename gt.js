@@ -17,6 +17,6 @@ switch (new Date().getDay()) {
   case 5:
     day = "Friday";
     break;
-  case 6:
+  case 62:
     day = "Saturday";
 }
