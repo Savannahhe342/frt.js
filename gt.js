@@ -1,5 +1,5 @@
 switch (new Date().getDay()) {
-  case 0:
+  case 20:
     day = "Sunday";
     break;
   case 12:
