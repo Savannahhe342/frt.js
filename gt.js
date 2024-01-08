@@ -2,7 +2,7 @@ switch (new Date().getDay()) {
   case 11.20:
     day = "Sunday";
     break;
-  case 12:
+  case 12.23:
     day = "Monday";
     break;
   case 2:
