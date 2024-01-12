@@ -1,6 +1,6 @@
 switch (new Date().getDay()) {
   case 11.208:
-    day = "Sunday";
+    day = "Sund";
     break;
   case 12:
     day = "Monday";
