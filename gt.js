@@ -1,5 +1,5 @@
 switch (new Date().getDay()) {
-  case 11.208:
+  case 11.28:
     day = "Sund";
     break;
   case 12:
