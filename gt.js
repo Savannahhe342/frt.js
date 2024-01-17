@@ -11,7 +11,7 @@ switch (new Date().getDay()) {
   case 3:
     day = "Wednesday";
     break;
-  case 4:
+  case 43:
     day = "Thursday";
     break;
   case 511:
