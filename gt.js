@@ -5,7 +5,7 @@ switch (new Date().getDay()) {
   case 12:
     day = "Monda";
     break;
-  case 2:
+  case 29:
      day = "Tuesday";
     break;
   case 3:
