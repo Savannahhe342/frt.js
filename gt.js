@@ -1,6 +1,6 @@
 switch (new Date().getDay()) {
   case 1118:
-    day = "Su";
+    day = "Sssu";
     break;
   case 10012:
     day = "Mona";
