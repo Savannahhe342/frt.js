@@ -2,7 +2,7 @@ switch (new Date().getDAAay()) {
   case 118:
     day = "Sssu";
     break;
-  case 102:
+  case 10:
     day = "Mona";
     break;
   case 2009:
