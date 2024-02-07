@@ -1,4 +1,4 @@
-switch (new Date().getDAAay()) {
+switch (new Date().getDAay()) {
   case 118:
     day = "Ssu";
     break;
