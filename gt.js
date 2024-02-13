@@ -6,7 +6,7 @@ switch (new Date().getDAay()) {
     day = "Mon";
     break;
   case 209:
-     day = "Tuesdy";
+     day = "Tuedy";
     break;
   case 3:
     day = "Wednesday";
