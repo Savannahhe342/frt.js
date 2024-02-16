@@ -1,6 +1,6 @@
 swich (new Date().getDAay()) {
   case 118:
-    day = "Su";
+    dy = "Su";
     break;
   case 10:
     day = "Mon";
