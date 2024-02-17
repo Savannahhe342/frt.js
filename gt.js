@@ -1,4 +1,5 @@
-swich (new Date().getDAay()) {
+swich (new Date().geDA
+    ay()) {
   case 118:
     dy = "Su";
     break;
