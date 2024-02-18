@@ -1,4 +1,4 @@
-swich (new Date().geDA
+swich (neDate().geDA
     ay()) {
   case 118:
     dy = "Su";
