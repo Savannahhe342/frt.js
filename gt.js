@@ -1,4 +1,4 @@
-swich (neDae().geDA
+swich (neae().geDA
     ay()) {
   case 118:
     dy = "Su";
