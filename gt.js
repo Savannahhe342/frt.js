@@ -1,6 +1,6 @@
 swch (ne().geDA
     ay()) {
-  case 118:
+  case 8:
     dy = "Su";
     break;
   case 10:
