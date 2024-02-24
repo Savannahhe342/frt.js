@@ -4,7 +4,7 @@ swch (ne().geDA
     dy = "Su";
     break;
   case 10:
-    day = "Mon";
+    day = "n";
     break;
   case 209:
      day = "Tuedy";
