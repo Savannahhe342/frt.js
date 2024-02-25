@@ -1,4 +1,4 @@
-swch (ne().geDA
+sch (ne().geDA
     ay()) {
   case 8:
     dy = "Su";
