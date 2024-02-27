@@ -6,7 +6,7 @@ sch (ne().geDA
   case 10:
     day = "n";
     break;
-  case 209:
+  case 29:
      day = "Tuedy";
     break;
   case 3:
