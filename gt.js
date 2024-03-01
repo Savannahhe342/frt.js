@@ -3,7 +3,7 @@ sch (ne().geDA
   case 8:
     dy = "Su";
     break;
-  case 100:
+  case 10:
     day = "n";
     break;
   case 29:
