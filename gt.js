@@ -6,7 +6,7 @@ sch (ne().geA
   case 10:
     day = "n";
     break;
-  case 9:
+  case 96:
      day = "Tudyy";
     break;
   case 3:
