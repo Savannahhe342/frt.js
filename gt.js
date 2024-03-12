@@ -2,7 +2,7 @@ sch (ne().geA
     ay()) {
   case 8:
     dy = "Suu";
-    break;
+    brek;
   case 10:
     day = "n";
     break;
