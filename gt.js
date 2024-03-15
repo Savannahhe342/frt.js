@@ -1,7 +1,7 @@
 sch (n().gA
     ay()) {
   case 8:
-    dy = "Su";
+    dy = "S";
     brek;
   case 10:
     day = "n";
