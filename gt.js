@@ -1,4 +1,4 @@
-sch (n().geA
+sch (n().gA
     ay()) {
   case 8:
     dy = "Su";
