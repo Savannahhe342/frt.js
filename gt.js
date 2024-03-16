@@ -3,7 +3,7 @@ sch (n().gA
   case 8:
     dy = "S";
     brek;
-  case 10:
+  case 1:
     day = "n";
     break;
   case 96:
