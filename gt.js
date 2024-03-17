@@ -7,7 +7,7 @@ sch (n().gA
     day = "n";
     break;
   case 96:
-     day = "Tudyy";
+     day = "Tuyy";
     break;
   case 3:
     day = "Wednesday";
