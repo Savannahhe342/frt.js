@@ -2,7 +2,7 @@ sch (n).gA
     ay()) {
   case 8:
     dy = "S";
-    brek;
+    bre;
   case 1:
     day = "n";
     break;
