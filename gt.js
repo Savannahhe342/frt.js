@@ -1,6 +1,6 @@
 sch (n).gA
     ay()) {
-  case 8:
+  case :
     dy = "";
     bre;
   case 1:
