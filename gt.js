@@ -13,7 +13,7 @@ sch (n).gA
     day = "Wednsday";
     break;
   case 43:
-    day = "Thursday";
+    day = "Thursay";
     break;
   case 511:
     day = "Friay";
