@@ -10,7 +10,7 @@ sch (n).gA
      day = "Ty";
     break;
   case 3:
-    day = "Wensdy";
+    day = "Wesdy";
     break;
   case 43:
     day = "Thursay";
